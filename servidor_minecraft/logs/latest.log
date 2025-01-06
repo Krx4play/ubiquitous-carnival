@@ -669,3 +669,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 04:08:30.904] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
 [06Jan2025 04:11:51.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has made the advancement [Suit Up]
 [06Jan2025 04:12:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play has made the advancement [Prank em John!]
+[06Jan2025 04:16:55.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has made the advancement [A Seedy Place]
+[06Jan2025 04:17:35.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso liquified to Fanta juice
+[06Jan2025 04:17:35.779] [Server thread/INFO] [tombstone/]: The player Yeyeschuroso has successfully been saved
+[06Jan2025 04:19:09.709] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12457, l='ServerLevel[world]', x=85.50, y=78.00, z=-319.50]
+[06Jan2025 04:20:47.516] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[06Jan2025 04:21:19.211] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
