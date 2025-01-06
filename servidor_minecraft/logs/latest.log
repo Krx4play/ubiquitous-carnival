@@ -605,3 +605,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 03:43:11.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play has made the advancement [Your First Grave]
 [06Jan2025 03:43:11.177] [Server thread/INFO] [tombstone/]: The player Krx4play has successfully been saved
 [06Jan2025 03:43:53.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play has made the advancement [Stone Age]
+[06Jan2025 03:44:52.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play has made the advancement [Getting an Upgrade]
+[06Jan2025 03:47:48.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play was doomed to fall
+[06Jan2025 03:47:48.479] [Server thread/INFO] [tombstone/]: The player Krx4play has successfully been saved
+[06Jan2025 03:48:03.417] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yeyeschuroso[/172.25.8.149:57952] logged in with entity id 4066 at (-41.5, 73.0, -119.5)
+[06Jan2025 03:48:03.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso joined the game
+[06Jan2025 03:48:03.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has completed the challenge [The Undead]
+[06Jan2025 03:48:03.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has made the advancement [Ice and Fire]
+[06Jan2025 03:48:22.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play has reached the goal [Here They Come]
+[06Jan2025 03:48:26.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-59, y=76, z=-119}
+[06Jan2025 03:48:49.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Set Yeyeschuroso's game mode to Creative Mode]
+[06Jan2025 03:49:20.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yeyeschuroso lost connection: Disconnected
+[06Jan2025 03:49:20.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso left the game
+[06Jan2025 03:49:46.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yeyeschuroso[/172.25.8.149:58078] logged in with entity id 4534 at (-61.4979218582006, 73.0, -119.26304870497074)
+[06Jan2025 03:49:46.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso joined the game
+[06Jan2025 03:50:11.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso was killed
+[06Jan2025 03:50:11.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has made the advancement [Your First Grave]
+[06Jan2025 03:50:11.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Killed Yeyeschuroso]
+[06Jan2025 03:50:11.353] [Server thread/INFO] [tombstone/]: The player Yeyeschuroso has successfully been saved
+[06Jan2025 03:50:17.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Set Yeyeschuroso's game mode to Survival Mode]
+[06Jan2025 03:50:23.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-60, y=73, z=-120}
+[06Jan2025 03:50:24.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-60, y=74, z=-121}
+[06Jan2025 03:50:24.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-60, y=73, z=-120}
+[06Jan2025 03:50:25.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has reached the goal [Here They Come]
+[06Jan2025 03:50:25.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-60, y=73, z=-121}
+[06Jan2025 03:50:26.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-60, y=73, z=-120}
+[06Jan2025 03:50:26.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-61, y=73, z=-121}
+[06Jan2025 03:50:26.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-60, y=73, z=-120}
+[06Jan2025 03:50:26.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-61, y=73, z=-121}
+[06Jan2025 03:50:51.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso was slain by Krx4play
+[06Jan2025 03:50:51.881] [Server thread/INFO] [tombstone/]: The player Yeyeschuroso has successfully been saved
+[06Jan2025 03:53:30.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has made the advancement [Stone Age]
+[06Jan2025 03:53:56.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has made the advancement [Getting an Upgrade]
