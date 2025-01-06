@@ -664,3 +664,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 04:04:10.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Killed Yeyeschuroso]
 [06Jan2025 04:04:10.475] [Server thread/INFO] [tombstone/]: The player Yeyeschuroso has successfully been saved
 [06Jan2025 04:04:29.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Killed Yeyeschuroso]
+[06Jan2025 04:06:44.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso was doomed to fall by Krx4play
+[06Jan2025 04:06:44.976] [Server thread/INFO] [tombstone/]: The player Yeyeschuroso has successfully been saved
+[06Jan2025 04:08:30.904] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[06Jan2025 04:11:51.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has made the advancement [Suit Up]
+[06Jan2025 04:12:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play has made the advancement [Prank em John!]
