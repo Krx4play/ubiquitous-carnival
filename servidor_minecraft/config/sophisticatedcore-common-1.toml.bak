@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:auto_smoking_upgrade|true", "sophisticatedbackpacks:gold_backpack|true", "sophisticatedbackpacks:copper_backpack|true"]
+
