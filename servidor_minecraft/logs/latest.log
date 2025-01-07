@@ -659,3 +659,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 21:26:04.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yeyeschuroso lost connection: Disconnected
 [07Jan2025 21:26:04.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso left the game
 [07Jan2025 21:26:04.819] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Yeyeschuroso
+[07Jan2025 21:34:11.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4f695329-c73d-35c4-949f-badf17d845ca timed out
+[07Jan2025 21:34:11.976] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Krx4play
+[07Jan2025 21:34:11.977] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Krx4play
+[07Jan2025 21:34:31.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Krx4play lost connection: Timed out
+[07Jan2025 21:34:31.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play left the game
+[07Jan2025 21:34:31.456] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Krx4play
