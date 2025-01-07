@@ -5,19 +5,7 @@
   "skins": {},
   "player_scaling": {
     "181ee4a7-df59-3e38-82ec-7e5ee6f514e5": {},
-    "4f695329-c73d-35c4-949f-badf17d845ca": {
-      "flight": 1.0,
-      "mob_vis": 1.0,
-      "motion": 1.0,
-      "defense": 1.0,
-      "reach": 1.0,
-      "attack": 1.0,
-      "akb": 1.0,
-      "health": 1.0,
-      "kbr": 1.0,
-      "stepHeight": 1.0,
-      "asp": 1.0
-    }
+    "4f695329-c73d-35c4-949f-badf17d845ca": {}
   },
   "player_scaling_settings": {},
   "scaling_settings": {
