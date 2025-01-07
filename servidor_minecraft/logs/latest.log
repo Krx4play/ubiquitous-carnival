@@ -643,3 +643,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 20:52:29.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play was shot by Skeleton
 [07Jan2025 20:52:29.462] [Server thread/INFO] [tombstone/]: The player Krx4play has successfully been saved
 [07Jan2025 20:55:25.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play has made the advancement [Monster Hunter]
+[07Jan2025 20:59:23.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play has made the advancement [Suit Up]
