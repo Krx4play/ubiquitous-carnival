@@ -129,6 +129,7 @@
     "criteria": {
       "minecraft:beach": "2025-01-06 04:15:19 +0000",
       "minecraft:river": "2025-01-06 04:14:17 +0000",
+      "minecraft:forest": "2025-01-06 04:26:53 +0000",
       "minecraft:savanna": "2025-01-06 02:22:51 +0000",
       "minecraft:plains": "2025-01-06 04:06:25 +0000"
     },
@@ -152,15 +153,47 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_key": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_ingredient": "2025-01-06 03:43:19 +0000"
+      "killed_something": "2025-01-06 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-01-06 03:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-06 03:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-01-06 03:55:36 +0000",
+      "cooked_beef": "2025-01-06 03:53:04 +0000",
+      "porkchop": "2025-01-06 03:40:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-06 03:41:26 +0000"
     },
     "done": true
   },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-01-06 03:43:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-06 03:43:19 +0000"
     },
     "done": true
   },
@@ -176,21 +209,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/root": {
+  "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
-      "useitem": "2025-01-06 03:39:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-01-06 04:01:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-01-06 03:39:29 +0000"
+      "coded_trigger": "2025-01-06 03:48:22 +0000"
     },
     "done": true
   },
@@ -200,29 +221,21 @@
     },
     "done": true
   },
-  "undead_revamp2:nightnight": {
+  "tombstone:adventure/first_knowledge": {
     "criteria": {
-      "nightnight": "2025-01-06 04:12:29 +0000"
+      "coded_trigger": "2025-01-06 03:59:36 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
+  "tombstone:adventure/funeral_theft": {
     "criteria": {
-      "coded_trigger": "2025-01-06 03:48:22 +0000"
+      "coded_trigger": "2025-01-06 03:59:36 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "cooked_porkchop": "2025-01-06 03:55:36 +0000",
-      "cooked_beef": "2025-01-06 03:53:04 +0000",
-      "porkchop": "2025-01-06 03:40:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-01-06 03:39:56 +0000"
+      "iron": "2025-01-06 04:01:24 +0000"
     },
     "done": true
   },
@@ -232,21 +245,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
+  "undead_revamp2:nightnight": {
     "criteria": {
-      "coded_trigger": "2025-01-06 03:59:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-01-06 03:41:26 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/funeral_theft": {
-    "criteria": {
-      "coded_trigger": "2025-01-06 03:59:36 +0000"
+      "nightnight": "2025-01-06 04:12:29 +0000"
     },
     "done": true
   },
