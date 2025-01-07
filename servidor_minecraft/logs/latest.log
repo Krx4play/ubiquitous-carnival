@@ -644,3 +644,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 20:52:29.462] [Server thread/INFO] [tombstone/]: The player Krx4play has successfully been saved
 [07Jan2025 20:55:25.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play has made the advancement [Monster Hunter]
 [07Jan2025 20:59:23.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play has made the advancement [Suit Up]
+[07Jan2025 21:14:46.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play was slain by Husk
+[07Jan2025 21:14:46.814] [Server thread/INFO] [tombstone/]: The player Krx4play has successfully been saved
+[07Jan2025 21:16:28.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play was slain by Husk
+[07Jan2025 21:16:28.212] [Server thread/INFO] [tombstone/]: The player Krx4play has successfully been saved
+[07Jan2025 21:24:15.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yeyeschuroso[/172.25.8.149:58017] logged in with entity id 16018 at (-216.63763717072254, 68.0, -404.1055634770941)
+[07Jan2025 21:24:15.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso joined the game
+[07Jan2025 21:24:18.815] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Yeyeschuroso (18)
+[07Jan2025 21:24:18.816] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Yeyeschuroso
+[07Jan2025 21:24:31.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 181ee4a7-df59-3e38-82ec-7e5ee6f514e5
+[07Jan2025 21:24:32.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 181ee4a7-df59-3e38-82ec-7e5ee6f514e5
+[07Jan2025 21:24:32.077] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Yeyeschuroso (181ee4a7-df59-3e38-82ec-7e5ee6f514e5) successfully connected to voice chat
+[07Jan2025 21:24:43.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Krx4play> dale a la g
+[07Jan2025 21:26:04.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yeyeschuroso lost connection: Disconnected
+[07Jan2025 21:26:04.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso left the game
+[07Jan2025 21:26:04.819] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Yeyeschuroso
