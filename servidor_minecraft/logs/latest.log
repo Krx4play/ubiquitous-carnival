@@ -665,3 +665,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 21:34:31.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Krx4play lost connection: Timed out
 [07Jan2025 21:34:31.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play left the game
 [07Jan2025 21:34:31.456] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Krx4play
+[07Jan2025 21:41:02.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yeyeschuroso[/172.25.8.149:58276] logged in with entity id 17800 at (-206.8433241057625, 70.0, -404.65287162953905)
+[07Jan2025 21:41:02.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso joined the game
+[07Jan2025 21:41:02.449] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Yeyeschuroso (18)
+[07Jan2025 21:41:02.450] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Yeyeschuroso
+[07Jan2025 21:41:07.478] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 181ee4a7-df59-3e38-82ec-7e5ee6f514e5
+[07Jan2025 21:41:08.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 181ee4a7-df59-3e38-82ec-7e5ee6f514e5
+[07Jan2025 21:41:08.478] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Yeyeschuroso (181ee4a7-df59-3e38-82ec-7e5ee6f514e5) successfully connected to voice chat
+[07Jan2025 21:42:49.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Krx4play[/172.25.42.141:62727] logged in with entity id 18276 at (-460.82559675876064, 86.0, -473.275518494097)
+[07Jan2025 21:42:49.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play joined the game
+[07Jan2025 21:42:49.602] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Krx4play (18)
+[07Jan2025 21:42:49.604] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Krx4play
+[07Jan2025 21:42:55.660] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4f695329-c73d-35c4-949f-badf17d845ca
+[07Jan2025 21:42:56.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4f695329-c73d-35c4-949f-badf17d845ca
+[07Jan2025 21:42:56.632] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Krx4play (4f695329-c73d-35c4-949f-badf17d845ca) successfully connected to voice chat
+[07Jan2025 21:43:10.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has made the advancement [Sweet Dreams]
+[07Jan2025 21:43:23.311] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Krx4play lost connection: Disconnected
+[07Jan2025 21:43:23.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play left the game
+[07Jan2025 21:43:23.313] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Krx4play
+[07Jan2025 21:43:39.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has made the advancement [Monster Hunter]
+[07Jan2025 21:43:44.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Krx4play[/172.25.42.141:62776] logged in with entity id 18794 at (-460.82559675876064, 86.0, -473.275518494097)
+[07Jan2025 21:43:44.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play joined the game
+[07Jan2025 21:43:44.413] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Krx4play (18)
+[07Jan2025 21:43:44.413] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Krx4play
+[07Jan2025 21:43:49.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4f695329-c73d-35c4-949f-badf17d845ca
+[07Jan2025 21:43:50.497] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4f695329-c73d-35c4-949f-badf17d845ca
+[07Jan2025 21:43:50.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Krx4play (4f695329-c73d-35c4-949f-badf17d845ca) successfully connected to voice chat
