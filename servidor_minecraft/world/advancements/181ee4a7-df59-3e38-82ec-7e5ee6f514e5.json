@@ -256,6 +256,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:vex": "2025-01-07 22:09:51 +0000",
       "minecraft:zombie": "2025-01-07 21:43:39 +0000"
     },
     "done": false
@@ -271,6 +272,30 @@
       "diamond": "2025-01-07 22:01:43 +0000"
     },
     "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 22:10:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 22:10:18 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-12 01:28:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-12 01:28:52 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
