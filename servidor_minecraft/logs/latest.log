@@ -692,3 +692,94 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jan2025 01:40:44.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Teleported RAIZOR89 to Yeyeschuroso]
 [12Jan2025 01:40:56.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 has made the advancement [Suit Up]
 [12Jan2025 01:41:11.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 has made the advancement [Acquire Hardware]
+[12Jan2025 01:45:10.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 was slain by Vindicator
+[12Jan2025 01:45:10.961] [Server thread/INFO] [tombstone/]: The player RAIZOR89 has successfully been saved
+[12Jan2025 01:45:14.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-52, y=69, z=-111}
+[12Jan2025 01:45:14.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-52, y=69, z=-111}
+[12Jan2025 01:45:51.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Teleported RAIZOR89 to Yeyeschuroso]
+[12Jan2025 01:46:07.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso was slain by Vindicator
+[12Jan2025 01:46:07.068] [Server thread/INFO] [tombstone/]: The player Yeyeschuroso has successfully been saved
+[12Jan2025 01:46:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 has made the advancement [Ambush]
+[12Jan2025 01:46:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 has made the advancement [Monster Hunter]
+[12Jan2025 01:46:39.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 has made the advancement [It Belongs in a Museum]
+[12Jan2025 01:46:48.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 has made the advancement [Amateur Archaeologist]
+[12Jan2025 01:46:56.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Teleported Yeyeschuroso to RAIZOR89]
+[12Jan2025 01:47:25.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play has made the advancement [Ant-Agonizer]
+[12Jan2025 01:47:37.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has made the advancement [Amateur Archaeologist]
+[12Jan2025 01:48:14.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play has reached the goal [Fortuitous Militia]
+[12Jan2025 01:49:17.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play has made the advancement [Ol' Betsy]
+[12Jan2025 01:49:22.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has made the advancement [Ambush]
+[12Jan2025 01:49:22.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has made the advancement [Voluntary Exile]
+[12Jan2025 01:49:26.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play has made the advancement [Take Aim]
+[12Jan2025 01:50:23.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yeyeschuroso> aksdahjosdhas
+[12Jan2025 01:50:26.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Krx4play lost connection: Disconnected
+[12Jan2025 01:50:26.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play left the game
+[12Jan2025 01:50:26.709] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Krx4play
+[12Jan2025 01:50:26.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAIZOR89 lost connection: Disconnected
+[12Jan2025 01:50:26.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 left the game
+[12Jan2025 01:50:26.739] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RAIZOR89
+[12Jan2025 01:50:42.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Krx4play[/172.25.42.141:52801] logged in with entity id 11040 at (-435.5239147080028, 80.0, -454.69804145406454)
+[12Jan2025 01:50:42.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play joined the game
+[12Jan2025 01:50:42.456] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Krx4play (18)
+[12Jan2025 01:50:42.456] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Krx4play
+[12Jan2025 01:50:49.099] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4f695329-c73d-35c4-949f-badf17d845ca
+[12Jan2025 01:50:50.102] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4f695329-c73d-35c4-949f-badf17d845ca
+[12Jan2025 01:50:50.102] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Krx4play (4f695329-c73d-35c4-949f-badf17d845ca) successfully connected to voice chat
+[12Jan2025 01:50:52.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RAIZOR89[/172.25.195.84:61966] logged in with entity id 11082 at (-435.3099001989425, 80.0, -457.03841797412974)
+[12Jan2025 01:50:52.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 joined the game
+[12Jan2025 01:50:52.829] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RAIZOR89 (18)
+[12Jan2025 01:50:52.830] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RAIZOR89
+[12Jan2025 01:51:02.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ddc78930-bfee-37ce-861e-ea9c3180a363
+[12Jan2025 01:51:03.562] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ddc78930-bfee-37ce-861e-ea9c3180a363
+[12Jan2025 01:51:03.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RAIZOR89 (ddc78930-bfee-37ce-861e-ea9c3180a363) successfully connected to voice chat
+[12Jan2025 01:53:17.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has made the advancement [This Must be a Sign!]
+[12Jan2025 01:55:31.741] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13641, l='ServerLevel[world]', x=-603.50, y=73.00, z=-522.50]
+[12Jan2025 01:56:44.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 was slain by Sea Serpent
+[12Jan2025 01:56:44.520] [Server thread/INFO] [tombstone/]: The player RAIZOR89 has successfully been saved
+[12Jan2025 01:56:52.492] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14797, l='ServerLevel[world]', x=-576.50, y=71.00, z=-584.50]
+[12Jan2025 01:57:02.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Teleported RAIZOR89 to Yeyeschuroso]
+[12Jan2025 01:57:40.062] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAIZOR89 lost connection: Timed out
+[12Jan2025 01:57:40.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 left the game
+[12Jan2025 01:57:40.063] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RAIZOR89
+[12Jan2025 01:57:50.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso was slain by Sea Serpent
+[12Jan2025 01:57:50.716] [Server thread/INFO] [tombstone/]: The player Yeyeschuroso has successfully been saved
+[12Jan2025 01:58:07.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RAIZOR89[/172.25.195.84:62484] logged in with entity id 15549 at (-665.8074373038618, 62.31244745120114, -586.2174015229982)
+[12Jan2025 01:58:07.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 joined the game
+[12Jan2025 01:58:08.230] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RAIZOR89 (18)
+[12Jan2025 01:58:08.231] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RAIZOR89
+[12Jan2025 01:58:12.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 has reached the goal [Chain Death]
+[12Jan2025 01:58:12.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 was slain by Sea Serpent
+[12Jan2025 01:58:12.725] [Server thread/INFO] [tombstone/]: The player RAIZOR89 has successfully been saved
+[12Jan2025 01:58:17.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Teleported RAIZOR89 to Yeyeschuroso]
+[12Jan2025 01:58:23.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ddc78930-bfee-37ce-861e-ea9c3180a363
+[12Jan2025 01:58:24.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ddc78930-bfee-37ce-861e-ea9c3180a363
+[12Jan2025 01:58:24.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RAIZOR89 (ddc78930-bfee-37ce-861e-ea9c3180a363) successfully connected to voice chat
+[12Jan2025 01:58:34.892] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16225, l='ServerLevel[world]', x=-616.50, y=78.00, z=-459.50]
+[12Jan2025 01:58:44.847] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16511, l='ServerLevel[world]', x=-603.50, y=73.00, z=-521.50]
+[12Jan2025 01:58:53.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Teleported 3 entities to Krx4play]
+[12Jan2025 01:59:33.588] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16957, l='ServerLevel[world]', x=-576.50, y=74.00, z=-573.50]
+[12Jan2025 01:59:37.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso has made the advancement [Sea? Not a Problem]
+[12Jan2025 01:59:45.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAIZOR89 moved too quickly! -9.253365866828403,2.4893159361311774,-2.895578858671911
+[12Jan2025 02:00:00.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Teleported 3 entities to Krx4play]
+[12Jan2025 02:00:26.990] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17333, l='ServerLevel[world]', x=-614.50, y=71.00, z=-500.50]
+[12Jan2025 02:00:45.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play was slain by Cyclops
+[12Jan2025 02:00:45.613] [Server thread/INFO] [tombstone/]: The player Krx4play has successfully been saved
+[12Jan2025 02:00:48.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAIZOR89> me ewscuchqn?
+[12Jan2025 02:00:50.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Teleported Krx4play to Yeyeschuroso]
+[12Jan2025 02:00:53.939] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17617, l='ServerLevel[world]', x=-575.50, y=71.00, z=-584.50]
+[12Jan2025 02:01:03.107] [Server thread/INFO] [tombstone/]: The player RAIZOR89 has successfully been saved
+[12Jan2025 02:01:20.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 has made the advancement [Take Aim]
+[12Jan2025 02:01:23.790] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17728, l='ServerLevel[world]', x=-614.50, y=71.00, z=-499.50]
+[12Jan2025 02:01:38.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAIZOR89 was slain by Cyclops
+[12Jan2025 02:01:38.362] [Server thread/INFO] [tombstone/]: The player RAIZOR89 has successfully been saved
+[12Jan2025 02:01:39.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso was slain by Cyclops
+[12Jan2025 02:01:39.312] [Server thread/INFO] [tombstone/]: The player Yeyeschuroso has successfully been saved
+[12Jan2025 02:01:49.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Teleported 3 entities to Krx4play]
+[12Jan2025 02:01:55.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeyeschuroso was slain by Cyclops
+[12Jan2025 02:01:55.955] [Server thread/INFO] [tombstone/]: The player Yeyeschuroso has successfully been saved
+[12Jan2025 02:02:04.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Teleported 3 entities to Krx4play]
+[12Jan2025 02:02:33.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Krx4play was slain by Cyclops
+[12Jan2025 02:02:33.630] [Server thread/INFO] [tombstone/]: The player Krx4play has successfully been saved
+[12Jan2025 02:02:41.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Krx4play: Teleported Krx4play to Yeyeschuroso]
+[12Jan2025 02:02:45.841] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18615, l='ServerLevel[world]', x=-605.50, y=73.00, z=-522.50]
+[12Jan2025 02:03:34.689] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18753, l='ServerLevel[world]', x=-575.50, y=71.00, z=-583.50]

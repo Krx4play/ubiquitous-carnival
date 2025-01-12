@@ -256,6 +256,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-12 01:49:22 +0000",
       "minecraft:vex": "2025-01-07 22:09:51 +0000",
       "minecraft:zombie": "2025-01-07 21:43:39 +0000"
     },
@@ -285,6 +286,24 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-12 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-12 01:59:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-12 01:49:22 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-01-12 01:28:52 +0000"
@@ -296,6 +315,18 @@
       "in_better_zombie_dungeon": "2025-01-12 01:28:52 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-12 01:49:22 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-12 01:47:37 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
